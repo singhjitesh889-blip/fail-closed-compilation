@@ -1,0 +1,11 @@
+{
+  "name": "fail-closed-compilation",
+  "version": "1.0.0",
+  "description": "A regeneration step that refuses to overwrite trusted output with a degraded result -- it aborts and logs instead.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/run.mjs"
+  },
+  "license": "MIT",
+  "author": "Jitesh Kumar Singh"
+}

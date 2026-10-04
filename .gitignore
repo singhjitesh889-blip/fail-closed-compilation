@@ -1,0 +1,3 @@
+node_modules/
+data/compiled-rules.md
+data/compile-log.jsonl
